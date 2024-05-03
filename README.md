@@ -1,16 +1,27 @@
-### Hi there 👋
+# Myles Smalley
 
-<!--
-**waimea-msmalley/waimea-msmalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at [Waimea College](https://waimea.school.nz) studying Digital Technologies, in NCEA Level 3
 
-Here are some ideas to get you started:
+## Interests
+- Theatre
+- Motorsport
+- Music
+- Digital Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Morning Routine
+1. Alarm
+1. Shower
+1. Breakfast
+1. Brush Teeth
+1. Make lunch
+1. Drive/Bus to school
+
+## Favorite Code Snippet
+
+I like to write in PHP, especially `echo` tags!
+```php
+echo '<title>Hello World!</title>'
+```
+## I like MotorSport!
+
+![Willi Car!](willi.jpg)
